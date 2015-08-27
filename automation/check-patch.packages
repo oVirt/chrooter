@@ -1,0 +1,5 @@
+git
+python-pbr
+python-setuptools
+python-testrepository
+python-tox

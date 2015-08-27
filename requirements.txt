@@ -1,0 +1,7 @@
+pbr>=0.8.2,<1.0
+stevedore
+# To be able to create Debian chroots:
+#debian-keyring
+#pbuilder
+# To be able to create CentOS/Fedora chroots
+#mock

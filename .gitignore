@@ -1,0 +1,12 @@
+*.egg-info
+.*.sw?
+.pip
+.pki
+.tox
+AUTHORS
+ChangeLog
+dist
+exported-artifacts
+logs*
+mocker*
+pbuilder*
