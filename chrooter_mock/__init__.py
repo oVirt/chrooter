@@ -53,6 +53,7 @@ class MockProvider(Provider):
             mock_env.set_try_proxy()
 
         if interactive:
+            script = None
             if scripts:
                 LOGGER.info(
                     'Only one script is allowed for the mock based envs,'
